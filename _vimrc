@@ -660,7 +660,7 @@ let g:NERDTreeIndicatorMapCustom = {
       \ 'Unknown'   : '?'
       \ }                                      " 为 NERDTree-Git-Plugin 设定各个状态对应的符号
 " 默认开启
-autocmd VimEnter * NERDTree
+"autocmd VimEnter * NERDTree
 
 " NERD_commenter      注释处理插件
 let NERDSpaceDelims = 1                        " 自动添加前置空格
